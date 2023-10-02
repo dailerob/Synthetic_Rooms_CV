@@ -1,6 +1,9 @@
 Roberto Dailey 
 March 2022
 
+This poject was intially constructed for the University of Texas Machine Learning and Datascience club semester competition. 
+It is now free for all to use for any CV applications (just please cite me) 
+
 Basic info is covered by competition_Details.pdf
 
 geometry_node_tests.blend is the blender file that generates room - it should be set up to go, just switch to rendered view or render an animation to start producing images.
