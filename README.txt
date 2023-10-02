@@ -1,7 +1,8 @@
 Roberto Dailey 
 March 2022
 
-This poject was intially constructed for the University of Texas Machine Learning and Datascience club semester competition. 
+This poject was intially constructed for the University of Texas Machine Learning and Datascience club semester competition: https://www.kaggle.com/competitions/MLDS-2021-22/overview
+
 It is now free for all to use for any CV applications (just please cite me) 
 
 Basic info is covered by competition_Details.pdf
